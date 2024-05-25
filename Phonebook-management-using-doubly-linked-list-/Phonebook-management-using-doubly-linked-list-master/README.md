@@ -1,6 +1,4 @@
-# Phonebook-management-using-doubly-linked-list
-3rd Semester Computer Engineering Project
-# MKSSS'S CUMMINS COLLEGE OF ENGINEERING FOR WOMEN
+
 
 # Taught data structures
 1.Array<br />
